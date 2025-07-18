@@ -27,4 +27,4 @@ To run the project locally:git clone https://github.com/week-8-capstone_-duncanm
 
 ## 📌 Video Demonstration
 
-https://drive.google.com/file/d/1Bi05c9NTdXzgN5OTMtYxbOBEeVfx-FAI/view?usp=sharing
+Google drive link: https://drive.google.com/file/d/1Bi05c9NTdXzgN5OTMtYxbOBEeVfx-FAI/view?usp=sharing
