@@ -24,3 +24,7 @@ Access the website here:
 ## 🛠️ Setup Instructions
 
 To run the project locally:git clone https://github.com/week-8-capstone_-duncanmutua.git
+
+## 📌 Video Demonstration
+
+https://drive.google.com/file/d/1Bi05c9NTdXzgN5OTMtYxbOBEeVfx-FAI/view?usp=sharing
